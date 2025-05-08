@@ -18,9 +18,11 @@
 <h2 align="center">Tech Stack</h2>
 <div align="center">
   <h3>💻 Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,py,java" alt="Languages" />
-  <h3>🌐 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java" alt="Languages" />
+  <div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,materialui,html,css" alt="Frontend" />
+</div>
   <h3>🛠️ Backend</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Backend" />
   <h3>Tools</h3>
