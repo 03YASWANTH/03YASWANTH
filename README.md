@@ -7,7 +7,7 @@
 <body>
   <h1 align="center">Yaswanth Baratam</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2dba4e&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+Python+%7C" style={"color":"green"} alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2dba4e&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+Python" alt="Typing SVG" />
 </div>
 <div align="center">
    <p align="center" style="font-family: 'Encode Sans Condensed', sans-serif; font-weight: 400;">
