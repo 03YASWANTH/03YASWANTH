@@ -15,8 +15,8 @@
 </p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=03YASWANTH&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
-<h2 >Tech Stack</h2>
-<div>
+<h2  align="center">Tech Stack</h2>
+<div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,py,java" alt="Languages" />
   <div>
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,materialui,html,css" alt="Frontend" />
 </div>
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase" alt="Backend" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=vercel,git,github" alt="DevOps and Cloud" />
 </body>
