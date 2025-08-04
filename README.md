@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,materialui,html,css" alt="Frontend" />
 </div>
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,docker" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,prisma,docker" alt="Backend" />
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=vercel,git,github" alt="DevOps and Cloud" />
 </body>
